@@ -30,3 +30,6 @@ Gross Profit is a profit that when total sales subtract by cost.
 > Gross Profit % = SUM (Sales [Gross Profit]) / SUM (Sales [Total Sales])
 
 Where Gross profit percent represents the sum of gross profit divided by totals sales
+
+## Conclusion
+In conclusion, BI has a big impact on the IT industry. Every corporate organization who manages insights into their data, strategies, profits, and performances thus BI help them to make significant and complex decisions. This paper represents important facts about data collection, storage, process, and visualization output. The main solution mainly based on power BI insight where table relationship and data-driven culture by enabling everyone to turn data into insightful visualizations they can use to make business decisions quickly and confidently.
