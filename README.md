@@ -3,6 +3,7 @@ Data Analyzing to visualize is a process of improving the performance of busines
 ## Abstract
 Day by day business has gone be more complicated and more competitive. Sales are the most valuable part of a business. Only the sales report of a business is not enough for today’s business development. The activity needs to get an insight into sales using data because of data-driven Decision is more impact. The purpose of the research is to develop an affordable and approachable model to deliver a business insight that helps you to understand your business and support to make business decisions faster. In this piece of research work, a model is proposed to develop an affordable simple sales data insight helping with business intelligence technique and cloud database. In terms of modern technology to control a vast amount of data for business decision-making process need to be more efficient. However to use a traditional database system business shrink to meet their real user's data. Against this backdrop, this Model through the research of Business intelligence Model of how to collect sales data fast and analysis with Power BI. Moreover, this model, elaborate on using business intelligence. This model uses a set of data, with ad Hoc query, Statistical analysis, some Mathematical Equation, and Data Visualization is a key component to gain a proactive and data-driven solution.
 ## Process Flow Chart
+![Process Flow Chart](https://i.imgur.com/A0nFB34.png)
 
 ## Basic Algorithm of Proposed Model
 1.  - START Input With Mobile Application
