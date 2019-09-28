@@ -11,3 +11,17 @@ Day by day business has gone be more complicated and more competitive. Sales are
 4. - API Called, Data Parse from Firebase
 5. - Data Input to Microsoft Power BI
 6. - Power BI, Output Visualized Data. 
+## Equations :
+To archive goal and mining the right information model used some equation that’s are :
+> Total Sales = [Sales Price] * [Total Unit]
+
+In Power Query mode of power bi, there is a new column added and it’s Total Sales which is multiplying of Sale Price column and Total Unit column.
+> Cost = [Cost Price] * [Total Unit]
+
+Cost Column is a result of multiplying cost price column and total unit column.
+> Gross Profit = [Total Sales] – [Cost]
+
+Gross Profit is a profit that when total sales subtract by cost.
+> Gross Profit % = SUM (Sales [Gross Profit]) / SUM (Sales [Total Sales])
+
+Where Gross profit percent represents the sum of gross profit divided by totals sales
