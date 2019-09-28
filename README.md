@@ -12,6 +12,10 @@ Day by day business has gone be more complicated and more competitive. Sales are
 4. - API Called, Data Parse from Firebase
 5. - Data Input to Microsoft Power BI
 6. - Power BI, Output Visualized Data. 
+
+## Data Relations Tables
+![Data Relation Table](https://i.imgur.com/TMZqbP1.png)
+
 ## Equations :
 To archive goal and mining the right information model used some equation that’s are :
 > Total Sales = [Sales Price] * [Total Unit]
