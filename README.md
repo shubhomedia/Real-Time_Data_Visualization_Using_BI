@@ -42,7 +42,8 @@ In conclusion, BI has a big impact on the IT industry. Every corporate organizat
 MD. Owes Quruny Shubho <br />
 +8801722092395 <br />
 shubhomedia@gmail.com <br />
-quruny15-8308@diu.edu.bd
+quruny15-8308@diu.edu.bd <br />
+https://shubho.info
 
 MD. Rasel Alam <br />
 +8801749042436 <br />
