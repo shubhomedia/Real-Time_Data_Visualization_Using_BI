@@ -35,3 +35,24 @@ Where Gross profit percent represents the sum of gross profit divided by totals 
 
 ## Conclusion
 In conclusion, BI has a big impact on the IT industry. Every corporate organization who manages insights into their data, strategies, profits, and performances thus BI help them to make significant and complex decisions. This paper represents important facts about data collection, storage, process, and visualization output. The main solution mainly based on power BI insight where table relationship and data-driven culture by enabling everyone to turn data into insightful visualizations they can use to make business decisions quickly and confidently.
+## Team Information 
+MD. Owes Quruny Shubho <br />
++8801722092395 <br />
+quruny15-8308@diu.edu.bd
+
+MD. Rasel Alam <br />
++8801749042436 <br />
+rasel15-8310@diu.edu.bd
+
+Walid Ibna Rakib Dipto <br />
++8801687975175 <br />
+walid15-8362@diu.edu.bd
+
+### Supervisor 
+Ms. Zerin Nasrin Tumpa  <br />
+Department of Computer Science and Engineering <br />
+
+
+WebPage :
+http://faculty.daffodilvarsity.edu.bd/profile/cse/zerin.html<br />
+zerintumpa.cse@diu.edu.bd
